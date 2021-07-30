@@ -1,0 +1,30 @@
+{
+	"name": "simple-log-package",
+	"version": "1.0.0",
+	"description": "A simple package for logging the data",
+	"main": "index.js",
+	"homepage": "https://github.com/Aravindan07/first-package",
+	"bugs": {
+		"url": "https://github.com/Aravindan07/first-package/issues",
+		"email": "aravindanravi33@gmail.com"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Aravindan07/first-package.git"
+	},
+	"scripts": {
+		"test": "mocha"
+	},
+	"keywords": [
+		"example",
+		"package",
+		"learning"
+	],
+	"author": "Aravindan <aravindanravi33@gmail.com> (https://www.aravind-portfolio.netlify.app)",
+	"license": "MIT",
+	"private": false,
+	"engines": {
+		"node": ">=6.0.0"
+	},
+	"engineStrict": true
+}
