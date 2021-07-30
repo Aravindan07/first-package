@@ -1,6 +1,6 @@
 {
 	"name": "simple-log-package",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "A simple package for logging the data",
 	"main": "index.js",
 	"homepage": "https://github.com/Aravindan07/first-package",
